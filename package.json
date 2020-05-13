@@ -4,7 +4,7 @@
   "description": "Testing",
   "main": "index.js",
   "bin": {
-    "ms-test": "./index.js"
+    "ms-test": "./ms-test.bat"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
