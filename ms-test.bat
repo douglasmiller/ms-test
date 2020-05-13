@@ -1,1 +1,1 @@
-node ./index.js
+node %~dp0/index.js
